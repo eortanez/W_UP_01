@@ -62,6 +62,7 @@ favstats(pushups~position,data=mydata)
 t.test(pushups~position,data=mydata)
 ```
 
+p=.000009421
 
 # Discussion and Conclusion
 
